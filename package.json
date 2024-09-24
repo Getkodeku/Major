@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "axios": "^1.7.7",
+    "colors": "^1.4.0",
+    "https-proxy-agent": "^7.0.5",
+    "luxon": "^3.5.0"
+  },
+  "scripts": {
+    "start-major": "node major.js",
+    "start-proxy": "node major-proxy.js"
+  }
+}
